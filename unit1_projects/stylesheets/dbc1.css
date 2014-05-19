@@ -1,0 +1,12 @@
+body {
+	background: blue;
+	text: red;
+}
+
+#fonty {
+	font-family: "comic sans";
+}
+
+.classy {
+	font-size: 16px;
+}
