@@ -25,6 +25,12 @@
 		border-width: 5px;
 	}
 
+.my-styling
+	{
+		font-size: 18px;
+		font: courier new;
+	}
+
 #footer
 	{
 		clear: both;
