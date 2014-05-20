@@ -7,4 +7,14 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+Questions I had during this challenge were around the sytax details needed for the correct CSS.  I went online and looked at tutorials as well as the additional links that were provided in github.
+
+It took me some time to understand the absolute and relative positioning.  After trial and error I was able to get the correct result.
+
+Yes I learned a lot of new CSS and HTML.
+
+I am moderately confident of my abilities with this section.
+
+I enjoyed applying styling elements to tags with CSS.
+
+I found all the positioning commands tedious.
