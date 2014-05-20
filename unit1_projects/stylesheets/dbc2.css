@@ -40,3 +40,19 @@
 	{
 		clear: both;
 	}	
+
+.bottomimage
+	{
+		position: absolute;
+
+	}
+
+.topcaption
+	{
+		position: absolute;
+		z-index: 2;
+	}
+
+
+
+
