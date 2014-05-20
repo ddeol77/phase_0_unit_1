@@ -7,7 +7,7 @@
 
 #sidebar
 	{
-		position: absolute;
+		position: relative;
 		clear: both;
 		margin:25px;
 		width: 200px;
