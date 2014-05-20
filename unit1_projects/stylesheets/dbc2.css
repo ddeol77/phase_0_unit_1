@@ -25,6 +25,10 @@
 		height: 400px;
 	}
 
+.linkStyle
+	a:link{color: #009900;}
+	a:visited{color: #999999;}
+	
 
 .my-styling
 	{
