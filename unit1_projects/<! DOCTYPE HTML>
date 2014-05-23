@@ -1,18 +1,40 @@
-<!-- 
-Write your names here:
-1. Dev Deol
-2. Pat Lauer
--->
-
-<!DOCTYPE html>
-<html lang="en">
+<! DOCTYPE HTML>
 <html>
     <head>
-    <link rel="stylesheet" href="gps1.1.css">
       <title>
           Pair Programming Info
      </title>  
-     
+     <style>
+
+
+#header {
+    background-color:lightblue;
+    color:white;
+    font-size:125%;
+    text-align:center;
+
+}
+
+.content {
+    background-color:lightyellow;
+    color:blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+   
+   
+    
+}
+
+.content img {
+    width:400px;
+    height:400px;
+    margin-left:220px;
+   
+}
+         
+         
+     </style>
     </head>
     
         <body>
@@ -46,7 +68,14 @@ Write your names here:
         </p>
        
         </div>
-              
+             
+     
         </body>
         
+        
+        
+        
+   
+    
+    
 </html>

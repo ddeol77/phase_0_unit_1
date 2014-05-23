@@ -1,1 +1,31 @@
-/* include your css here */
+<style>
+
+
+#header {
+    background-color:lightblue;
+    color:white;
+    font-size:125%;
+    text-align:center;
+
+}
+
+.content {
+    background-color:lightyellow;
+    color:blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+   
+   
+    
+}
+
+.content img {
+    width:400px;
+    height:400px;
+    margin-left:220px;
+   
+}
+         
+         
+     </style>
