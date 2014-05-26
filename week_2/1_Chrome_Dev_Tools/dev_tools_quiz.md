@@ -13,7 +13,7 @@
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
   * command + option + i
-
+ 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
     *When I hover over the container id I see green and brown also.
@@ -32,7 +32,11 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
       I went to the Network tab in devtools, clicked shift refresh to reload the page, and sorted the items by content size.  URL for the image is: http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png it is 500 X 210.
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated? The easiest thing to change to optimize the site is the by inlining small css stylesheets to reduce the number of requests.  Around 1.4 kb of data can be eliminated.
+=======
+* Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated? The easiest thing to change to optimize the site is the by inlining small css stylesheets to reduce the number of requests.  Around 1.4 kb of data can be eliminated.
+>>>>>>> FETCH_HEAD
 =======
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated? The easiest thing to change to optimize the site is the by inlining small css stylesheets to reduce the number of requests.  Around 1.4 kb of data can be eliminated.
 >>>>>>> FETCH_HEAD
