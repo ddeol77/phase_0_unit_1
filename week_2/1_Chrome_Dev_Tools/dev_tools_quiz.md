@@ -1,7 +1,7 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
-<div>height = 400px width = 400px<img src="https://raw.githubusercontent.com/ddeol77/phase_0_unit_1/master/week_2/1_Chrome_Dev_Tools/imgs/Screen%20Shot%202014-05-24%20at%2011.36.32%20AM.png"></div>
+<img src="https://raw.githubusercontent.com/ddeol77/phase_0_unit_1/master/week_2/1_Chrome_Dev_Tools/imgs/Screen%20Shot%202014-05-24%20at%2011.36.32%20AM.png"></div>
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
