@@ -5,14 +5,14 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
-    * The Element and Styles tabs support realtime editing of HTML and CSS.  This is done by right-clicking on an element and selecting Inspect Element.
+    <br>he Element and Styles tabs support realtime editing of HTML and CSS.  This is done by right-clicking on an element and selecting Inspect Element.
   * Javascript Debugging
-    * This is done in the sources panel.  There is a Javascript Debuggins optionin the left panel.
+    <br> This is done in the sources panel.  There is a Javascript Debuggins optionin the left panel.
   * Performance Optimization 
-    * This can be done by using the Network tab.  In this tab you can anazlyse the order in which information is being loaded, the speed, and any errors.  This information allows to to re-arrange items, fix errors, and make other adjustments to optimize the performance.  There is also pagespeed tools but the tutorials didn't talk about that much.
+    <br>This can be done by using the Network tab.  In this tab you can anazlyse the order in which information is being loaded, the speed, and any errors.  This information allows to to re-arrange items, fix errors, and make other adjustments to optimize the performance.  There is also pagespeed tools but the tutorials didn't talk about that much.
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
-  * command + option + i
+  <br>command + option + i
  
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
