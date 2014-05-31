@@ -13,27 +13,46 @@ var terah = {
 }
 
 
-
 // __________________________________________
+// Pseudocode:
+// Give adam a name property with the value "Adam".
+// Add a spouse property to terah and assign it the value of adam.
+// Change the value of the terah weight property to 125.
+// Remove the eyeColor property from terah.
+// Add a spouse property to adam and assign it the value of terah.
+// Add a children property to terah and and use object literal notation to assign this variable the value of a JavaScript Object object with no properties
+// Add a carson property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carson".
+// Add a carter property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carter"
+// Add a colton property to the value of the terah children property and assign it the value of an object with the property name with a value of "Colton"
+// Add a children property to adam and assign it the value of terah children
+
+
+
 // Write your code below.
-
-
-
-
-
-
-
-
+// Initial Solution:
+var adam = {}
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {}
+terah.children.carson = {name: "Carson"}
+terah.children.carter = {name: "Carter"}
+terah.children.colton = {name: "Colton"}
+adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
-
-
+// 1. I initially had problems because I was redefining the objects in order to add the new property values to them.  When I went back and 
+// looked at the reading materials on how to add properties to objects I was able to get tests to pass.
+// 2. The questions I had while coding were some of the syntax for creating properties and assiging it a value of a blank object.  I used
+// the back to basics javascript documentation to get the answers.
+// 3. I figured out how to create properties and assign them to values of objects and even empty objects.
+// 4. In this challenge the new skills I learned were to add properties to existing objects
+// 5. I am very confident in my ability to define local variables in Javascript, very confident in my ability to create, add, delete, and
+// access values from JavaScript Object literals, and I'm very confident in my abilities to use pre-written tests to drive development
+// 6. I enjoyed writing the statements to add properties by just referencing the object and entering the property name and value
+// 7. I initially found the challenge tedious because I wasn't sure of the correct syntax and was doing a lot of unnecessary typing
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
